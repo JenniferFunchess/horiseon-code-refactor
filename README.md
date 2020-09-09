@@ -9,8 +9,6 @@ It is important to simplify the layout of these documents in case you have the c
 
 Potential future projects for this website would be to add locations for each of the nav bar buttons. 
 
-Installation
-
 
 Usage
 
@@ -37,10 +35,6 @@ https://wave.webaim.org
 License
 
 
-Badges
-
-
 Contributing
 
-
-test
+Thank you to my wonderful tutor, Sean Brown-Byfield, for helping me with this assignment! 
