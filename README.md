@@ -14,9 +14,14 @@ Usage
 
 To be able to view this site you can visit my Github profile. This site is also listed below:
 
+https://github.com/JenniferFunchess/horiseon-code-refactor
+
 __
 
+Below are photos of the completed webpage browser:
 
+![HoriseonWebpage1](./assets/images/webpage1.png)
+![HoriseonWebpage](./assets/images/webpage2.png)
 
 
 Credits
