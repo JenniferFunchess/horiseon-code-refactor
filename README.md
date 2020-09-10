@@ -31,6 +31,8 @@ To be able to view this site you can visit my Github profile. This site is also 
 
 https://github.com/JenniferFunchess/horiseon-code-refactor
 
+https://jenniferfunchess.github.io/horiseon-code-refactor/
+
 __
 
 Below are photos of the completed webpage browser:
